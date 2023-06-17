@@ -8,6 +8,8 @@ Hello, my name is André Luiz 🇧🇷 <br/>
 Im here to share my projects and portfolios in Github 🐱‍🚀 <br/>
 I hope that you like 🐱‍💻
   <a href='https://myportfolio1-1-git-main-11-anddev-portfolio.vercel.app/'>See my personal Portfolio</a>
+  <br/>
+  My email: anddesenvolved@gmail.com
 </p>
 <br/>
 <br/>
