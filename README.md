@@ -25,7 +25,7 @@ I hope that you like 🐱‍💻
 <ul>
 <h2>🏡My experience</h2>
   <li> 
-    Actually i'm working in a volunter project as Front end developer 👨‍💻
+    Actually i'm working as a Front end developer 👨‍💻
   </li>
   <li> 
     I build and make the webpages responsives according of Figma design🐱‍💻
