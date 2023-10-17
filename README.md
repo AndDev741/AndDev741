@@ -19,16 +19,16 @@ I hope that you like 🐱‍💻
     My name is André Luiz, i'm from Brasil🇧🇷 
   </li>
   <li>
-    Actually i'm living in Portugal where i study computer science💻
+    Actually i'm studying Analysis and system Development💻
   </li>
 </ul>
 <ul>
 <h2>🏡My experience</h2>
   <li> 
-    Actually i'm working as a Front end developer 👨‍💻
+    Actually i'm working as Web Developer 👨‍💻
   </li>
   <li> 
-    I build and make the webpages responsives according of Figma design🐱‍💻
+    I can build complete websites, since the design to code🐱‍💻
   </li>
 </ul>
 <ul>
