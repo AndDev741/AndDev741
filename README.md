@@ -1,4 +1,4 @@
-<h1 align='center'>Hello, My name is André Luiz and i'm a front end developer</h1>
+<h1 align='center'>Hello, My name is André Luiz and i'm a web developer</h1>
 <p align='center'>
 <img width='400' align='left' src='https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif' />
   <br/>
@@ -7,7 +7,7 @@
 Hello, my name is André Luiz 🇧🇷 <br/>
 Im here to share my projects and portfolios in Github 🐱‍🚀 <br/>
 I hope that you like 🐱‍💻
-  <a href='https://myportfolio1-1-git-main-11-anddev-portfolio.vercel.app/'>See my personal Portfolio</a>
+  <a href='https://andre-luiz-web-dev.vercel.app/'>See my personal Portfolio</a>
   <br/>
   My email: anddesenvolved@gmail.com
 </p>
@@ -25,7 +25,7 @@ I hope that you like 🐱‍💻
 <ul>
 <h2>🏡My experience</h2>
   <li> 
-    Actually i'm working as Web Developer 👨‍💻
+    Actually i'm working as Web Developer making freelances👨‍💻
   </li>
   <li> 
     I can build complete websites, since the design to code🐱‍💻
