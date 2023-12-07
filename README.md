@@ -25,7 +25,7 @@ I hope that you like 🐱‍💻
 <ul>
 <h2>🏡My experience</h2>
   <li> 
-    Actually i'm working as Web Developer making freelances👨‍💻
+    Actually i'm working as a Front-end Developer
   </li>
   <li> 
     I can build complete websites, since the design to code🐱‍💻
