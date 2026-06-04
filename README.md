@@ -1,42 +1,91 @@
-<h2 align="center">Hi there👋! My name is André Luiz and I'm a full-stack developer</h2>
+<div align="center">
 
-###
+# André Luiz Gonçalves
+
+**Software Engineer · Java / Spring Boot · React**
+
+*Building production-grade distributed systems at [Gentek.ai](https://gentek.ai) · Lisbon, Portugal*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-b9915b275/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://andre-luiz-webdev.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:andreluizgoncalves741@gmail.com)
+
+</div>
+
+---
+
+## About
+
+Software Engineer focused on backend-heavy full-stack development, distributed systems and performance engineering. Currently evolving an AI SaaS platform used by banking clients, from OLAP data pipelines and reactive microservices to modular React frontends.
+
+I care about systems that work correctly *in production*: observable, testable, resilient, and built to scale before the problems become visible.
+
+---
+
+## Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndDev741&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+**Data & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![StarRocks](https://img.shields.io/badge/StarRocks-FF6B00?style=flat&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Testing & Quality**
+
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=flat&logo=testcontainers&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
+## Selected Work
+
+### Production Engineering @ Gentek.ai
+
+A few highlights from building a financial-grade AI SaaS platform:
+
+| What | Result |
+|------|--------|
+| **StarRocks OLAP migration** — moved EMIR/SFTR analytics layer from PostgreSQL to StarRocks with incremental MV refresh | `Processing data pipeline`: 1 hour → **2.1s** · MV refresh flat at ~14s regardless of data volume · endpoint p50 −92% |
+| **Distributed L1/L2 cache** — Caffeine + Redis/Redisson with cross-pod pub/sub invalidation and ACL-scoped keys | −67% p95 · +101% throughput · latency cut to 1/3 |
+| **Load testing campaign with k6** — caught OOM at 92% heap and I/O bottlenecks before first client go-live | +681% throughput · −91% p95 after optimisation |
+| **E2E contract testing engine** — internal Java 21 service with virtual threads, SSE and multi-environment UI | Caught real cache bugs on day one that 80% unit coverage had missed |
+| **Test coverage 0% → 80%** across 4 critical microservices | JUnit 5 · Mockito · Testcontainers · integrated in CI/CD |
+| **Reactive notification service** — fully non-blocking stack with WebFlux + R2DBC + reactor-kafka + AWS MSK | Priority-based processing · deduplication · real-time SSE streaming |
+
+---
+
+## Personal Project
+
+### [BeYou](https://github.com/AndDev741/Beyou-backend-spring) — Gamified Habit & Routine Manager
+
+Open-source habit management platform built as a long-term learning lab.
+
+- **Backend:** Spring Boot · JWT auth · XP/gamification engine · Caffeine L1 caching · advanced Spring transactions
+- **Frontend:** React · Redux · Tailwind CSS · dynamic routines · real-time feedback
+- Built with production-grade practices: clean architecture, SOLID principles, meaningful test coverage
+
+---
 
 ###
 
@@ -46,31 +95,10 @@
 
 ###
 
-<h2>🚀 About Me</h2>
-<p>Hi there! My name is <strong>André Luiz</strong>, and I'm a passionate <strong>Fullstack Developer</strong> who loves building well-structured and scalable systems. I specialize in developing <strong>modern web applications</strong>, combining <strong>React (frontend)</strong> and <strong>Spring Boot (backend)</strong> to create efficient and high-performance solutions.</p>
+---
 
-<p>Currently, I’m focused on improving my skills in <strong>Cloud with AWS (TDD)</strong>, Containerization with <strong>Docker</strong>, and developing <strong>intuitive and performant applications</strong>.</p>
+<div align="center">
 
-<h2>🛠️ Technologies I Work With</h2>
-<ul>
-  <li><strong>Frontend:</strong> React, Redux, Tailwind CSS, Figma, React Router, Axios and many other libs</li>
-  <li><strong>Backend:</strong> Java, Spring Boot (Web, Data, Security), PostgreSQL</li>
-  <li><strong>Authentication & Security:</strong> JWT, Spring Security, Bcrypt</li>
-  <li><strong>Testing:</strong> JUnit, Mockito, MockMvc</li>
-  <li><strong>DevOps & Deployment:</strong>Aws, Railway, Vercel, Git, GitHub</li>
-</ul>
+*Always open to interesting problems in distributed systems, performance engineering or financial data.*
 
-<h2>🎯 What I’m Currently Working On</h2>
-<ul>
-  <li>🔹 Building <strong>fullstack web applications</strong> with <strong>React & Spring Boot</strong></li>
-  <li>🔹 Improving my <strong>JUnit, Mockito & TDD</strong> testing skills</li>
-  <li>🔹 Developing <strong>reusable and accessible React components</strong></li>
-  <li>🔹 Studying <strong>Cloud Computing and Containerization</strong> to best architecture and deploy</li>
-</ul>
-
-<h2>📫 Get in Touch</h2>
-<ul>
-  <li>📧 Email: <strong>andreluizgoncalves741@gmail.com</strong></li>
-  <li>🌐 LinkedIn: <a href="https://www.linkedin.com/in/andr%C3%A9-luiz-b9915b275/" target="_blank">Linkedin</a></li>
-  <li>🚀 Portfolio: <a href="https://andre-luiz-web-dev.vercel.app/" target="_blank">My portfolio</a></li>
-</ul>
+</div>
