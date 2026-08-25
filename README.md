@@ -7,7 +7,7 @@
 *Building production-grade distributed systems at [Gentek.ai](https://gentek.ai) · Lisbon, Portugal*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-b9915b275/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://andre-luiz-webdev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://myportfolio.beyouweb.com/)
 [![Beyou Docs](https://img.shields.io/badge/BeYou_Docs-0082E1?style=flat&logo=readthedocs&logoColor=white)](https://docs.beyouweb.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:andreluizgoncalves741@gmail.com)
 
